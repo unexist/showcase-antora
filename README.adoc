@@ -1,0 +1,7 @@
+= Showcase for antora
+
+This project holds an example for antora.
+
+== Frameworks
+
+- https://antora.org[Antora]
